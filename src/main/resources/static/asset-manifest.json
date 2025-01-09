@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4495ab8.css",
+    "main.js": "/static/js/main.93d81b6f.js",
+    "static/js/453.195efe25.chunk.js": "/static/js/453.195efe25.chunk.js",
+    "static/media/mixkit-white-sand-beach-background-1564-full-hd.mp4": "/static/media/mixkit-white-sand-beach-background-1564-full-hd.1d982d7e2d2600b85c09.mp4",
+    "static/media/12122581-hd_1920_1080_24fps.mp4": "/static/media/12122581-hd_1920_1080_24fps.50c1ad9bc32e6f2de00a.mp4",
+    "static/media/Default.jpg": "/static/media/Default.e23d449a791552e7a8a7.jpg",
+    "index.html": "/index.html",
+    "main.a4495ab8.css.map": "/static/css/main.a4495ab8.css.map",
+    "main.93d81b6f.js.map": "/static/js/main.93d81b6f.js.map",
+    "453.195efe25.chunk.js.map": "/static/js/453.195efe25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4495ab8.css",
+    "static/js/main.93d81b6f.js"
+  ]
+}
